@@ -1,16 +1,16 @@
 # Estrutura Sequencial 1 ✅ #
 
-Programação de Soluções Computacionais
+### Programação de Soluções Computacionais ###
 
-Nome: Ricardo Ramos Rocha
+* Nome: Ricardo Ramos Rocha
 
-RA: 1272224585
+* RA: 1272224585
 
-Instituição: UNIFACS
+* Instituição: UNIFACS
 
 
 ## Enunciado: ##
 
-### + 1. Faça um Programa que mostre a mensagem "Alo mundo" na tela. ###
+ * 1 Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
 
 
