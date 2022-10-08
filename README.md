@@ -2,11 +2,18 @@
 
 ### Programação de Soluções Computacionais ###
 
-* Nome: Ricardo Ramos Rocha
-
-* RA: 1272224585
-
-* Instituição: UNIFACS
+<table>
+<tr>
+<td>Nome</td>
+<td>RA</td>
+<td>Instituição</td>
+</tr>
+<tr>
+<td>Ricardo Ramos Rocha</td>
+<td>1272224585</td>
+<td>UNIFACS</td>
+</tr>
+</table>
 
 
 ## Enunciado: ##
