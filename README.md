@@ -18,6 +18,15 @@
 
 ## Enunciado: ##
 
-  1) Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+  * Faça um Programa que mostre a mensagem "Alo mundo" na tela. 
+
+  ## Como rodar
+
+1) É necessário entrar no vs code e instalar todas as extensões do Java (o pack manager facilita).
+
+2) Depois disso, é só abrir a paleta de comandos, criar um novo projeto Java e em seguida escolher a opção " No build tools"
+
+3) Feito isso, todas a sua estrutura java está pronta. Copie o codigo do App.java e dê um "run" no projeto!
+
 
 
